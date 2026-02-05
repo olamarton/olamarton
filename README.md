@@ -31,21 +31,21 @@ Exploring "design is subtraction" through AI-assisted minimalist silhouettes.
 
 ## 📦 Featured Projects
 
-### 🔥 [ScandinavianDesign SEO Automation](link kommer)
+### 🔥 [ScandinavianDesign SEO Automation]
 Automated alt-text generation for 40,000+ images
 - **Challenge:** Legacy site with minimal image optimization
 - **Solution:** AI-powered batch processing with quality control
 - **Result:** 8-9/10 SEO score, measurable traffic increase
 - **Tech:** Claude API, Python, WordPress integration
 
-### 🎨 [AI Creative Director Prompt Library](link kommer)
+### 🎨 [AI Creative Director Prompt Library]
 Battle-tested prompts from 40 years of creative direction
 - Brand identity generation
 - Content creation workflows  
 - Design critique & iteration
 - Client presentation formats
 
-### 🖼️ [MonoQrom AI Workflow](link kommer)
+### 🖼️ [MonoQrom AI Workflow]
 End-to-end process: concept → AI generation → curation → production
 
 ## 📊 GitHub Stats
